@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33618
     wikipedia: http://en.wikipedia.org/wiki/Juliette_Gordon_Low
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28983#How-Girls-Can-Help-Their-Country
 gutenberg_bookshelf: Scouts
 gutenberg_issued: '2009-05-28'
 gutenberg_type: Text
