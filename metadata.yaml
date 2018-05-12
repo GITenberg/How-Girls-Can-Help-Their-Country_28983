@@ -1,0 +1,47 @@
+_repo: How-Girls-Can-Help-Their-Country_28983
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Baden-Powell, Agnes
+    alias: Baden-Powell, Agnes Smyth
+    birthdate: 1858
+    deathdate: 1945
+    gutenberg_agent_id: '33619'
+    url: http://www.gutenberg.org/2009/agents/33619
+    wikipedia: http://en.wikipedia.org/wiki/Agnes_Baden-Powell
+  - agent_name: Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron
+    aliases:
+    - Baden-Powell, Baron Robert Stephenson Smyth
+    - Baden-Powell, R. S. S.
+    - Baden-Powell, Robert
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '2144'
+    url: http://www.gutenberg.org/2009/agents/2144
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell
+  - agent_name: Low, Juliette Gordon
+    alias: Low, Daisy
+    birthdate: 1860
+    deathdate: 1927
+    gutenberg_agent_id: '33618'
+    url: http://www.gutenberg.org/2009/agents/33618
+    wikipedia: http://en.wikipedia.org/wiki/Juliette_Gordon_Low
+description: ''
+gutenberg_bookshelf: Scouts
+gutenberg_issued: '2009-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HS'
+- !lcsh 'Girl Scouts of the United States of America'
+- !lcsh 'Girl Scouts'
+title: How Girls Can Help Their Country
+url: http://www.gutenberg.org/ebooks/28983
